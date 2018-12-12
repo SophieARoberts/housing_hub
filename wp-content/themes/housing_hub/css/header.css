@@ -1,0 +1,36 @@
+.nav {
+	background-color: rgb(181, 18, 27);
+	height: 20vh;
+	display: flex;
+	align-items: center;
+}
+
+.logo {
+	background-image: url("../images/logo.svg");
+	width: 50%;
+	height: 50%;
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	margin-left: 5%;
+}
+
+.nav_menu {
+	width: 50%;
+	text-align: right;
+	margin-right: 5%;
+}
+
+.menu-item {
+	display: inline;
+	color: white;
+	padding: 0 3%;
+}
+
+.menu-item a {
+	text-decoration: none;
+	color: white;
+}
+
+li.phone {
+	font-weight: 700;
+}
