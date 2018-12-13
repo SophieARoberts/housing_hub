@@ -18,3 +18,63 @@ img {
 	height: auto;
 	margin: 5% 0;
 }
+
+.masthead {
+	height: 100vh;
+	background-color: rgb(41,51,61);
+	margin: 0;
+}
+
+.service_wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.service {
+	width: 20%;
+	height: 25%;
+	margin: 2%;
+	text-align: center;
+}
+.service .img {
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	background-position: center;
+	margin-bottom: 5%;
+}
+
+
+#moving .img {
+	background-image: url("../images/moving_icon.png");
+}
+
+#storage .img {
+	background-image: url("../images/storage_icon.png");
+}
+
+#party .img {
+	background-image: url("../images/party_icon.png");
+}
+
+#drinks .img {
+	background-image: url("../images/drinks_icon.png");
+}
+
+#post .img {
+	background-image: url("../images/post_icon.png");
+}
+
+#fine .img {
+	background-image: url("../images/fine_icon.png");
+}
+
+#binding .img {
+	background-image: url("../images/binding_icon.png");
+}
+
+#printing .img {
+	background-image: url("../images/printing_icon.png");
+}
