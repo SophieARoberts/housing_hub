@@ -1,4 +1,20 @@
 body {
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
+	color: rgb(41, 51, 61);
+}
+
+.main {
+	margin: 0 5%;
+}
+
+h1 {
+	padding-top: 17vh;
+	margin-bottom: 2%;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	margin: 5% 0;
 }

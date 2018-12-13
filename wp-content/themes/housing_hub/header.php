@@ -7,7 +7,8 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/phone.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/footer.css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-	<title>Student Housing Hub</title>
+	<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/favicon.png">
+	<title>SHH | <?php echo get_the_title(); ?></title>
 
 </head>
 

@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg815"
-   width="611.88501"
+   width="623"
    height="88"
-   viewBox="0 0 611.88501 88"
-   sodipodi:docname="logo.svg"
+   viewBox="0 0 623 88"
+   sodipodi:docname="logo_small.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata821">
@@ -42,14 +42,26 @@
     </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath857">
+       id="clipPath845">
       <rect
-         style="opacity:1;fill:#b5121b;fill-opacity:1;stroke:none;stroke-width:4.98952389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect859"
-         width="611.88519"
-         height="87.808945"
-         x="11.114813"
-         y="0.19105908"
+         style="opacity:1;fill:#b5121b;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect847"
+         width="115.40015"
+         height="86.996521"
+         x="0"
+         y="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath849">
+      <rect
+         style="opacity:1;fill:#b5121b;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect851"
+         width="115.40015"
+         height="86.996521"
+         x="0"
+         y="0"
          ry="0" />
     </clipPath>
   </defs>
@@ -66,14 +78,13 @@
      inkscape:window-height="705"
      id="namedview817"
      showgrid="false"
-     inkscape:zoom="0.7046549"
-     inkscape:cx="144.15879"
-     inkscape:cy="105.85289"
+     inkscape:zoom="0.99653251"
+     inkscape:cx="223.00333"
+     inkscape:cy="27.329688"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg815"
-     units="px" />
+     inkscape:current-layer="svg815" />
   <image
      width="623"
      height="88"
@@ -83,14 +94,14 @@
      id="image823"
      x="0"
      y="0"
-     clip-path="url(#clipPath857)"
-     transform="translate(-11.353075,-1.9223671e-6)" />
+     clip-path="url(#clipPath849)" />
   <rect
      style="opacity:1;fill:#b5121b;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
      id="rect849"
      width="295.02298"
      height="16.557413"
-     x="177.80283"
-     y="60.906048"
-     ry="8.2787066" />
+     x="189.1559"
+     y="60.906052"
+     ry="8.2787066"
+     clip-path="url(#clipPath845)" />
 </svg>

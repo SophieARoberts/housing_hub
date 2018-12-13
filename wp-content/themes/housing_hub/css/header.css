@@ -1,8 +1,10 @@
 .nav {
 	background-color: rgb(181, 18, 27);
-	height: 20vh;
+	height: 15vh;
 	display: flex;
 	align-items: center;
+	position: fixed;
+	width: 100%;
 }
 
 .logo {
@@ -33,4 +35,5 @@
 
 li.phone {
 	font-weight: 700;
+	padding-right: 0;
 }
